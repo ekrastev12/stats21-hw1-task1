@@ -1,0 +1,1 @@
+Hello! This is my first text file. This is actually the first text file I have created on the terminal. Exciting.
